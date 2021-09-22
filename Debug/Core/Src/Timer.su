@@ -1,0 +1,6 @@
+Timer.c:10:6:timerConfigure	24	static
+Timer.c:17:6:timerConfigureCaptureCompare	24	static
+Timer.c:28:6:timerConfigureEventGeneration	16	static
+Timer.c:32:6:timerSetCapComReg	24	static
+Timer.c:36:6:timerSetPrescaler	16	static
+Timer.c:40:6:timerSetARR	16	static
